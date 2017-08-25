@@ -1,1 +1,1 @@
-0
+new content for ff.txt in new_branch
